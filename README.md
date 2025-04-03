@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @teksoftgroup
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning PHP, Go, React
+- 👋 Hi, I’m @teksoftgroup, it's so nice to meet you
+- 👀 I’m passionate about Software Architecture
+- 🌱 C# is home but I’m currently learning PHP, Go, React
 
 <!---
 teksoftgroup/teksoftgroup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
